@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyTextView">
+        <attr name="threshold" format="float" />
+        <attr name="cold_color" format="color" />
+        <attr name="warm_color" format="color" />
+        <attr name="description_template" format="string" />
+    </declare-styleable>
+</resources>
